@@ -1,10 +1,13 @@
-.cat {
+.title {
     display: flex;
-    color: #ffffff;
-    padding-top: 45px;
-    font-size: 25px;
-    font-weight: normal;
+    justify-content: center;
    
-    
+}
 
+
+.cat {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 100;
+    word-spacing: 5px;
 }
