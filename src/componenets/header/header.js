@@ -4,11 +4,7 @@ import './header.scss';
 
 const Header = () => {
     return (
-        <div className="title">
-            <h1 className="cat">Ты сегодня покормил кота?</h1>
-        </div>
-
-
+        <h1>Ты сегодня покормил кота?</h1>
     );
 };
 

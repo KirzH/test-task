@@ -7,12 +7,13 @@ import Footer from './componenets/footer/footer';
 
 
 
+
 const App = () => {
     return (
         <div className="bg" >
-             <Header />
-             <Container />
-             <Footer />
+            <Header />
+            <Container />
+            <Footer />
         </div>
     );
 };
